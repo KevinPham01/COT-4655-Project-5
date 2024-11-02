@@ -1,10 +1,10 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *TriviaApp*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kevin Pham**
 
-**Name of your app** is an app that ... [TODO] 
+**TriviaApp** is an app that engages users in a fun and interactive trivia challenge by dynamically fetching trivia questions from the Open Trivia Database. The app offers a range of customizable options, allowing users to select the number of questions, category, difficulty, and type (Multiple Choice or True/False) before starting the game. Questions are presented in either a ListView or CardView format, allowing users to interact with the UI by selecting answers, submitting responses, and receiving a score after completing the quiz. With features like REST API integration, JSON data parsing, and responsive SwiftUI design, TriviaApp offers a lively, on-demand trivia experience across various topics and levels of difficulty.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -41,6 +41,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 Describe any challenges encountered while building the app.
 
+![COP5930-005Project5-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9c2e032a-3244-4298-9a7a-d4b6bedc4c9f)
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
@@ -56,3 +58,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
